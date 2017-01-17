@@ -1,5 +1,5 @@
 {
-    "name": "ecocentricenergy/nusoap",
+    "name": "bouwehand/nusoap",
     "description": "NuSOAP re-packaged for Packagist/Composer",
     "license": "LGPLv2",
     "authors": [
@@ -10,6 +10,9 @@
         {
             "name": "Scott Nichol",
             "homepage": "http://sourceforge.net/u/snichol/profile/"
+        },
+        {
+            "name": "Bas Ouwehand"
         }
     ],
     "autoload": {
